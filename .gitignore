@@ -1,0 +1,66 @@
+# FreshRSS Project .gitignore
+
+### Environment Files ###
+# Protect sensitive configuration data
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+
+### Docker ###
+# Docker configuration and runtime files
+docker-compose.override.yml
+/docker-config/data/
+*.dockerfile
+docker-compose.override.yaml
+docker.env
+
+### Application Data ###
+# FreshRSS specific data that shouldn't be in version control
+/data/
+/log/
+*.log
+/cache/
+/uploads/
+
+### System Files ###
+# Operating system specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+### IDE and Editor Files ###
+# Editor specific temporary/configuration files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+### Temporary Files ###
+# Various temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+### Security ###
+# Files that might contain sensitive information
+**/auth.json
+**/config.php
+**/passwords.txt
+*api_key*
+**/credentials.*
+
+### Logs and Databases ###
+# Log files and local databases
+*.log
+*.sql
+*.sqlite
+logs/
