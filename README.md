@@ -33,6 +33,7 @@ A solid development environment is fundamental to any project. We'll configure t
 - Configure development tools and utilities
 - Set up project-specific environment variables
 - Understand basic CLI navigation and commands
+
 **Module 2: FreshRSS Deployment**
 Docker containers provide consistency and portability. We'll learn container basics while setting up our core application.
 - Create and configure FreshRSS container

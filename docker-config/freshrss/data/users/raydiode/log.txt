@@ -1,0 +1,77 @@
+[Thu, 14 Nov 2024 09:25:33 +0000] [warning] --- cURL error 22: The requested URL returned error: 403 [https://www.reutersagency.com/feed/?best-topics=tech&amp;post_type=best]
+[Thu, 14 Nov 2024 09:26:26 +0000] [warning] --- Unknown error for feed [https://www.reutersagency.com/feed/?best-topics=tech&amp;post_type=best]
+[Thu, 14 Nov 2024 09:27:12 +0000] [warning] --- cURL error 6: Could not resolve host: feeds.reuters.com [http://feeds.reuters.com/reuters/technologyNews]
+[Thu, 14 Nov 2024 09:27:22 +0000] [warning] --- Unknown error for feed [http://feeds.reuters.com/reuters/technologyNews]
+[Thu, 14 Nov 2024 09:27:37 +0000] [warning] --- cURL error 22: The requested URL returned error: 404 [https://www.reuters.com/arc/outboundfeeds/reuters-business/technology/?outputType=xml]
+[Thu, 14 Nov 2024 12:12:02 +0000] [warning] --- cURL error 22: The requested URL returned error: 401 [https://www.reuters.com/technology/rss]
+[Thu, 14 Nov 2024 12:12:50 +0000] [warning] --- cURL error 22: The requested URL returned error: 401 [https://www.reuters.com/feed]
+[Thu, 14 Nov 2024 12:46:22 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915218 in feed 6
+[Thu, 14 Nov 2024 12:46:24 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2915266 in feed 6
+[Thu, 14 Nov 2024 12:46:25 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2915247 in feed 6
+[Thu, 14 Nov 2024 12:46:28 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2914487 in feed 6
+[Thu, 14 Nov 2024 12:46:29 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2914912 in feed 6
+[Thu, 14 Nov 2024 12:46:29 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2913817 in feed 6
+[Thu, 14 Nov 2024 12:46:31 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2915056 in feed 6
+[Thu, 14 Nov 2024 12:46:33 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2914913 in feed 6
+[Thu, 14 Nov 2024 12:46:34 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2915105 in feed 6
+[Thu, 14 Nov 2024 12:46:35 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",21,"bad parameter or other API misuse"] while updating entry with GUID https://techcrunch.com/?p=2914931 in feed 6
+[Thu, 14 Nov 2024 12:50:31 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914487 in feed 6
+[Thu, 14 Nov 2024 12:50:32 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914912 in feed 6
+[Thu, 14 Nov 2024 12:50:34 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2913817 in feed 6
+[Thu, 14 Nov 2024 12:50:36 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915056 in feed 6
+[Thu, 14 Nov 2024 12:50:37 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914913 in feed 6
+[Thu, 14 Nov 2024 12:50:39 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915105 in feed 6
+[Thu, 14 Nov 2024 12:50:39 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915218 in feed 6
+[Thu, 14 Nov 2024 12:50:39 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915266 in feed 6
+[Thu, 14 Nov 2024 12:50:39 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915247 in feed 6
+[Thu, 14 Nov 2024 12:50:39 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914487 in feed 6
+[Thu, 14 Nov 2024 12:50:39 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914912 in feed 6
+[Thu, 14 Nov 2024 12:50:39 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2913817 in feed 6
+[Thu, 14 Nov 2024 12:50:39 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915056 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914913 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915105 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915218 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915266 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915247 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914487 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914912 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2913817 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915056 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914913 in feed 6
+[Thu, 14 Nov 2024 12:50:40 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915105 in feed 6
+[Thu, 14 Nov 2024 12:50:43 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914931 in feed 6
+[Thu, 14 Nov 2024 12:50:45 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914975 in feed 6
+[Thu, 14 Nov 2024 12:50:46 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914978 in feed 6
+[Thu, 14 Nov 2024 12:50:48 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914906 in feed 6
+[Thu, 14 Nov 2024 12:50:49 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914926 in feed 6
+[Thu, 14 Nov 2024 12:50:51 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914876 in feed 6
+[Thu, 14 Nov 2024 12:50:56 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914799 in feed 6
+[Thu, 14 Nov 2024 12:50:58 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914795 in feed 6
+[Thu, 14 Nov 2024 12:50:59 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914740 in feed 6
+[Thu, 14 Nov 2024 12:51:00 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2913789 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914912 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2913817 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915056 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914913 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915105 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914931 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914975 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914978 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914906 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914926 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914876 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914799 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914795 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914740 in feed 6
+[Thu, 14 Nov 2024 12:51:01 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2913789 in feed 6
+[Thu, 14 Nov 2024 13:04:22 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915056 in feed 6
+[Thu, 14 Nov 2024 13:04:23 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2914913 in feed 6
+[Thu, 14 Nov 2024 13:04:25 +0000] [error] --- SQL error FreshRSS_EntryDAO::updateEntry["HY000",5,"database is locked"] while updating entry with GUID https://techcrunch.com/?p=2915105 in feed 6
+[Thu, 14 Nov 2024 13:43:02 +0000] [warning] --- filters does not exist in configuration
+[Thu, 14 Nov 2024 13:43:35 +0000] [warning] --- filters does not exist in configuration
+[Thu, 14 Nov 2024 13:47:56 +0000] [warning] --- filters does not exist in configuration
+[Thu, 14 Nov 2024 13:54:17 +0000] [warning] --- filters does not exist in configuration
+[Thu, 14 Nov 2024 14:09:13 +0000] [warning] --- Unknown error for feed [https://neilzone.co.uk/feed]
+[Thu, 14 Nov 2024 14:09:13 +0000] [warning] --- cURL error 22: The requested URL returned error: 404 [https://neilzone.co.uk/feed]
+[Thu, 14 Nov 2024 14:09:21 +0000] [warning] --- cURL error 22: The requested URL returned error: 404 [https://neilzone.co.uk/rss]
+[Thu, 14 Nov 2024 14:09:21 +0000] [warning] --- Unknown error for feed [https://neilzone.co.uk/rss]
