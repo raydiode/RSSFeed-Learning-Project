@@ -28,6 +28,7 @@ Al Jazeera: https://www.aljazeera.com/xml/rss/all.xml
 TechCrunch: https://techcrunch.com/feed
 Forbes: https://www.forbes.com/real-time/feed2
 ```
+**The above are AI generated examples and they might not work. Some personal research will be required**
 
 For each source:
 1. Select 'New Subscription'
@@ -45,6 +46,7 @@ It's important to note that full article extraction from major news sources can 
 Alternative solutions to consider:
 - Tiny Tiny RSS (TTRSS) with full-text plugins
 - FiveFilters Full-Text RSS service
+- Miniflux
 - Self-hosted feed parsing services
 
 **CSS Selector Implementation**
