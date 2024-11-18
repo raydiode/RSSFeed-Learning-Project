@@ -34,6 +34,54 @@ a:6:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:
   
   
   
+ ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:27:"http://www.w3.org/2005/Atom";a:6:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:20:"yt:video:0eHZRPzbiJ0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:34:"TMUX in 100 seconds | Prime Reacts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:9:"alternate";s:4:"href";s:43:"https://www.youtube.com/watch?v=0eHZRPzbiJ0";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:11:"
+   
+   
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"ThePrimeTime";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:56:"https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-11-17T00:35:26+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-11-17T00:35:44+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:39:"http://www.youtube.com/xml/schemas/2015";a:2:{s:7:"videoId";a:1:{i:0;a:5:{s:4:"data";s:11:"0eHZRPzbiJ0";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"channelId";a:1:{i:0;a:5:{s:4:"data";s:24:"UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:5:"group";a:1:{i:0;a:6:{s:4:"data";s:23:"
+   
+   
+   
+   
+   
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:34:"TMUX in 100 seconds | Prime Reacts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:3:"url";s:47:"https://www.youtube.com/v/0eHZRPzbiJ0?version=3";s:4:"type";s:29:"application/x-shockwave-flash";s:5:"width";s:3:"640";s:6:"height";s:3:"390";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:49:"https://i1.ytimg.com/vi/0eHZRPzbiJ0/hqdefault.jpg";s:5:"width";s:3:"480";s:6:"height";s:3:"360";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:731:"Recorded live on twitch, GET IN 
+
+### Article
+https://www.youtube.com/watch?v=vtB1J_zCv8I
+By: Fireship | https://www.youtube.com/@Fireship
+
+### My Stream
+https://twitch.tv/ThePrimeagen
+
+### Best Way To Support Me
+Become a backend engineer.  Its my favorite site
+https://boot.dev/?promo=PRIMEYT
+
+This is also the best way to support me is to support yourself becoming a better backend engineer.  
+
+MY MAIN YT CHANNEL: Has well edited engineering videos
+https://youtube.com/ThePrimeagen
+
+Discord
+https://discord.gg/ThePrimeagen
+
+
+Have something for me to read or react to?: https://www.reddit.com/r/ThePrimeagen
+
+Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
+
+Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
+    
+    
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:3:"324";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:4:"4230";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:1;a:6:{s:4:"data";s:29:"
+  
+  
+  
+  
+  
+  
+  
+  
+  
  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:27:"http://www.w3.org/2005/Atom";a:6:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:20:"yt:video:ZehQ4XQs9NA";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:35:"OpenAI's Next Model Isn't Better...";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:9:"alternate";s:4:"href";s:43:"https://www.youtube.com/watch?v=ZehQ4XQs9NA";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:11:"
    
    
@@ -61,7 +109,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"8966";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"197188";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:1;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"9317";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"205776";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:2;a:6:{s:4:"data";s:29:"
   
   
   
@@ -100,7 +148,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"2282";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:5:"70410";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:2;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"2388";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:5:"74641";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:3;a:6:{s:4:"data";s:29:"
   
   
   
@@ -153,7 +201,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"4446";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"137382";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:3;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"4572";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"143801";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:4;a:6:{s:4:"data";s:29:"
   
   
   
@@ -196,7 +244,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"9536";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"130313";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:4;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"9573";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"131480";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:5;a:6:{s:4:"data";s:29:"
   
   
   
@@ -238,7 +286,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:5:"10154";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"206152";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:5;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:5:"10188";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"207160";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:6;a:6:{s:4:"data";s:29:"
   
   
   
@@ -282,7 +330,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"5979";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"106942";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:6;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"5993";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"107331";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:7;a:6:{s:4:"data";s:29:"
   
   
   
@@ -330,7 +378,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"3341";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"117096";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:7;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"3364";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"118258";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:8;a:6:{s:4:"data";s:29:"
   
   
   
@@ -343,7 +391,7 @@ Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attrib
  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:27:"http://www.w3.org/2005/Atom";a:6:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:20:"yt:video:Lw9Y_A5rzOs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:16:"Expert Beginners";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:9:"alternate";s:4:"href";s:43:"https://www.youtube.com/watch?v=Lw9Y_A5rzOs";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:11:"
    
    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"ThePrimeTime";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:56:"https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-11-01T17:35:51+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-11-04T21:06:27+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:39:"http://www.youtube.com/xml/schemas/2015";a:2:{s:7:"videoId";a:1:{i:0;a:5:{s:4:"data";s:11:"Lw9Y_A5rzOs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"channelId";a:1:{i:0;a:5:{s:4:"data";s:24:"UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:5:"group";a:1:{i:0;a:6:{s:4:"data";s:23:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"ThePrimeTime";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:56:"https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-11-01T17:35:51+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-11-16T23:03:49+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:39:"http://www.youtube.com/xml/schemas/2015";a:2:{s:7:"videoId";a:1:{i:0;a:5:{s:4:"data";s:11:"Lw9Y_A5rzOs";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"channelId";a:1:{i:0;a:5:{s:4:"data";s:24:"UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:5:"group";a:1:{i:0;a:6:{s:4:"data";s:23:"
    
    
    
@@ -365,7 +413,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"7808";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"129772";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:8;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"8022";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"133145";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:9;a:6:{s:4:"data";s:29:"
   
   
   
@@ -413,7 +461,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"3273";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"136947";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:9;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"3293";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"137890";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:10;a:6:{s:4:"data";s:29:"
   
   
   
@@ -426,7 +474,7 @@ Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attrib
  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:27:"http://www.w3.org/2005/Atom";a:6:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:20:"yt:video:_lZV76JO3WU";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:23:"Level Up As A Developer";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:9:"alternate";s:4:"href";s:43:"https://www.youtube.com/watch?v=_lZV76JO3WU";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:11:"
    
    
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"ThePrimeTime";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:56:"https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-30T19:31:56+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-11-01T03:09:52+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:39:"http://www.youtube.com/xml/schemas/2015";a:2:{s:7:"videoId";a:1:{i:0;a:5:{s:4:"data";s:11:"_lZV76JO3WU";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"channelId";a:1:{i:0;a:5:{s:4:"data";s:24:"UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:5:"group";a:1:{i:0;a:6:{s:4:"data";s:23:"
+  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"ThePrimeTime";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:56:"https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-30T19:31:56+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-11-16T23:04:56+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:39:"http://www.youtube.com/xml/schemas/2015";a:2:{s:7:"videoId";a:1:{i:0;a:5:{s:4:"data";s:11:"_lZV76JO3WU";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"channelId";a:1:{i:0;a:5:{s:4:"data";s:24:"UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:5:"group";a:1:{i:0;a:6:{s:4:"data";s:23:"
    
    
    
@@ -447,7 +495,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:5:"18093";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"188764";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:10;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:5:"18344";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"191674";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:11;a:6:{s:4:"data";s:29:"
   
   
   
@@ -496,7 +544,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:5:"10726";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"292783";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:11;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:5:"10787";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"295076";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:12;a:6:{s:4:"data";s:29:"
   
   
   
@@ -537,7 +585,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"2039";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:5:"71177";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:12;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"2057";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:5:"71864";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:13;a:6:{s:4:"data";s:29:"
   
   
   
@@ -585,7 +633,7 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"1213";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:5:"58168";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:13;a:6:{s:4:"data";s:29:"
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"1216";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:5:"58270";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:14;a:6:{s:4:"data";s:29:"
   
   
   
@@ -633,52 +681,4 @@ Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
 Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
     
     
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"6017";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"174826";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}i:14;a:6:{s:4:"data";s:29:"
-  
-  
-  
-  
-  
-  
-  
-  
-  
- ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:3:{s:27:"http://www.w3.org/2005/Atom";a:6:{s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:20:"yt:video:W9SNghx843M";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"The Worst Anti-Cheat Ever";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:9:"alternate";s:4:"href";s:43:"https://www.youtube.com/watch?v=W9SNghx843M";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:11:"
-   
-   
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"ThePrimeTime";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:3:"uri";a:1:{i:0;a:5:{s:4:"data";s:56:"https://www.youtube.com/channel/UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-25T11:42:45+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2024-10-29T00:40:52+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:39:"http://www.youtube.com/xml/schemas/2015";a:2:{s:7:"videoId";a:1:{i:0;a:5:{s:4:"data";s:11:"W9SNghx843M";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"channelId";a:1:{i:0;a:5:{s:4:"data";s:24:"UCUyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:29:"http://search.yahoo.com/mrss/";a:1:{s:5:"group";a:1:{i:0;a:6:{s:4:"data";s:23:"
-   
-   
-   
-   
-   
-  ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:5:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"The Worst Anti-Cheat Ever";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:3:"url";s:47:"https://www.youtube.com/v/W9SNghx843M?version=3";s:4:"type";s:29:"application/x-shockwave-flash";s:5:"width";s:3:"640";s:6:"height";s:3:"390";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"thumbnail";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"url";s:49:"https://i4.ytimg.com/vi/W9SNghx843M/hqdefault.jpg";s:5:"width";s:3:"480";s:6:"height";s:3:"360";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:717:"Recorded live on twitch, GET IN 
-
-### Article
-https://x.com/zebleerpo/status/1847024778600689706
-By: https://x.com/zebleerpo
-
-### My Stream
-https://twitch.tv/ThePrimeagen
-
-### Best Way To Support Me
-Become a backend engineer.  Its my favorite site
-https://boot.dev/?promo=PRIMEYT
-
-This is also the best way to support me is to support yourself becoming a better backend engineer.  
-
-MY MAIN YT CHANNEL: Has well edited engineering videos
-https://youtube.com/ThePrimeagen
-
-Discord
-https://discord.gg/ThePrimeagen
-
-
-Have something for me to read or react to?: https://www.reddit.com/r/ThePrimeagen
-
-Kinesis Advantage 360: https://bit.ly/Prime-Kinesis
-
-Get production ready SQLite with Turso: https://turso.tech/deeznuts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:9:"community";a:1:{i:0;a:6:{s:4:"data";s:14:"
-    
-    
-   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"1766";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:5:"59840";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}s:39:"http://www.youtube.com/xml/schemas/2015";a:1:{s:9:"channelId";a:1:{i:0;a:5:{s:4:"data";s:22:"UyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:4:"date";s:29:"Sat, 16 Nov 2024 07:54:57 GMT";s:7:"expires";s:29:"Sat, 16 Nov 2024 08:09:57 GMT";s:13:"cache-control";s:19:"public, max-age=900";s:16:"content-encoding";s:4:"gzip";s:6:"server";s:24:"YouTube RSS Feeds server";s:14:"content-length";s:4:"4482";s:16:"x-xss-protection";s:1:"0";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:7:"alt-svc";s:42:"h3=:443; ma=2592000,h3-29=:443; ma=2592000";}s:5:"build";s:14:"20240924100504";s:5:"mtime";i:1731743698;s:3:"md5";s:32:"fccb5005a5da15f84ccc36accc445184";}
+   ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:1:{s:29:"http://search.yahoo.com/mrss/";a:2:{s:10:"starRating";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:4:{s:5:"count";s:4:"6075";s:7:"average";s:4:"5.00";s:3:"min";s:1:"1";s:3:"max";s:1:"5";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:10:"statistics";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"views";s:6:"177004";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}}}}s:39:"http://www.youtube.com/xml/schemas/2015";a:1:{s:9:"channelId";a:1:{i:0;a:5:{s:4:"data";s:22:"UyeluBRhGPCW4rPe_UvBZQ";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}s:4:"type";i:512;s:7:"headers";a:11:{s:16:"content-encoding";s:4:"gzip";s:6:"server";s:24:"YouTube RSS Feeds server";s:14:"content-length";s:4:"4472";s:16:"x-xss-protection";s:1:"0";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:4:"date";s:29:"Mon, 18 Nov 2024 11:06:48 GMT";s:7:"expires";s:29:"Mon, 18 Nov 2024 11:21:48 GMT";s:13:"cache-control";s:19:"public, max-age=900";s:12:"content-type";s:23:"text/xml; charset=UTF-8";s:3:"age";s:3:"102";s:7:"alt-svc";s:42:"h3=:443; ma=2592000,h3-29=:443; ma=2592000";}s:5:"build";s:14:"20240924100504";s:5:"mtime";i:1731928109;s:3:"md5";s:32:"ade9482667315d010e08eade5194cf05";}

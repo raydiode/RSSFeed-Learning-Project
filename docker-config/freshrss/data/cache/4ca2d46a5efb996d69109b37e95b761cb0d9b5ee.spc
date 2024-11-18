@@ -52,7 +52,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 		
 		
 		
-	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:5:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:8:"GeekWire";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:25:"https://www.geekwire.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:38:"Breaking News in Technology & Business";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 15 Nov 2024 23:50:24 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-US";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:50:"
+	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:5:{s:0:"";a:7:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:8:"GeekWire";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:25:"https://www.geekwire.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:38:"Breaking News in Technology & Business";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:13:"lastBuildDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sun, 17 Nov 2024 16:00:30 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"language";a:1:{i:0;a:5:{s:4:"data";s:5:"en-US";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"image";a:1:{i:0;a:6:{s:4:"data";s:50:"
         
         
         
@@ -68,8 +68,179 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 		
 				
 								
-								";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:98:"Internal emails: Elon Musk wanted to keep OpenAI from becoming ‘Microsoft’s marketing bitch’";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:119:"https://www.geekwire.com/2024/internal-emails-elon-musk-wanted-to-keep-openai-from-becoming-microsofts-marketing-bitch/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 15 Nov 2024 23:48:32 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:9:"Microsoft";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"https://www.geekwire.com/?p=849105";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1308:"<img width="1024" height="694" src="https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-1024x694.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-1024x694.jpg 1024w, https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-620x420.jpg 620w, https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211.jpg 1702w" sizes="(max-width: 1024px) 100vw, 1024px"><br>Elon Musk, an original co-founder of OpenAI, attempted to keep the organization from becoming too cozy with Microsoft in an early cloud computing deal with the Redmond company. &#8220;This actually made me feel nauseous. It sucks and is exactly what I would expect from them,&#8221; Musk wrote in a 2016 email thread with OpenAI&#8217;s Sam Altman, commenting on Microsoft&#8217;s proposal to provide $60 million in cloud computing credits for $10 million, a $50 million discount on their commercial value, if OpenAI also agreed to &#8220;evangelize&#8221; Microsoft Azure as its preferred cloud provider. Altman responded, in part, &#8220;I had the same&#8230; <a href="https://www.geekwire.com/2024/internal-emails-elon-musk-wanted-to-keep-openai-from-becoming-microsofts-marketing-bitch/">Read More</a>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Todd Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:6041:"
-<figure class="wp-block-image size-full-width"><img decoding="async" width="620" height="420" src="https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-620x420.jpg" alt="" class="wp-image-150496" srcset="https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-620x420.jpg 620w, https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-1024x694.jpg 1024w, https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211.jpg 1702w" sizes="(max-width: 620px) 100vw, 620px" /><figcaption class="wp-element-caption">Elon Musk in Seattle in 2015. (GeekWire File Photo / Taylor Soper)</figcaption></figure>
+								";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:78:"Week in Review: Most popular stories on GeekWire for the week of Nov. 10, 2024";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:65:"https://www.geekwire.com/2024/geekwire-weekly-roundup-2024-11-10/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sun, 17 Nov 2024 16:00:18 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:15:"GeekWire Weekly";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:65:"https://www.geekwire.com/2024/geekwire-weekly-roundup-2024-11-10/";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:659:"<img width="1200" height="630" src="https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png" class="webfeedsFeaturedVisual wp-post-image" alt="GeekWire Week in Review" decoding="async" fetchpriority="high" srcset="https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1.png 1200w, https://cdn.geekwire.com/wp-content/uploads/2015/11/geekwire-week-in-review1-620x326.png 620w" sizes="(max-width: 1200px) 100vw, 1200px"><br>See the technology stories that people were reading on GeekWire for the week of Nov. 10, 2024.&#8230; <a href="https://www.geekwire.com/2024/geekwire-weekly-roundup-2024-11-10/">Read More</a>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:8:"GeekWire";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:9876:"
+<p>Get caught up on the latest technology and startup news from the past week. Here are the most popular stories on GeekWire for the week of Nov. 10, 2024.</p>
+<p>Sign up to receive these updates every Sunday in your inbox by subscribing to our <a href="http://www.geekwire.com/newsletters/">GeekWire Weekly email newsletter</a>.</p>
+<h3>Most popular stories on GeekWire</h3>
+<article class="teaser"><a href="https://www.geekwire.com/2024/uw-computer-science-professor-wins-100k-infosys-prize-honoring-top-researchers/" class="teaser-thumb"><img decoding="async" width="200" height="246" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/shyam-gollakota-200x246.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/uw-computer-science-professor-wins-100k-infosys-prize-honoring-top-researchers/">University of Washington computer science professor wins $100K Infosys Prize</a></h2>
+<p>Shyam Gollakota, a University of Washington computer science professor and Seattle-based health tech startup founder, won a $100,000 award as one of six researchers honored as part of this year&#8217;s Infosys Prize. <a href="https://www.geekwire.com/2024/uw-computer-science-professor-wins-100k-infosys-prize-honoring-top-researchers/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/hands-on-with-amazon-haul-first-impressions-of-the-e-commerce-giants-new-temu-and-shein-rival/" class="teaser-thumb"><img decoding="async" width="200" height="138" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-haul-200x138.png" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/hands-on-with-amazon-haul-first-impressions-of-the-e-commerce-giants-new-temu-and-shein-rival/">Hands-on with Amazon Haul: First impressions of the e-commerce giant&#8217;s new Temu and Shein rival</a></h2>
+<p>A week or more to get a bunch of stuff I don&#8217;t really need? <a href="https://www.geekwire.com/2024/hands-on-with-amazon-haul-first-impressions-of-the-e-commerce-giants-new-temu-and-shein-rival/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/gilead-sciences-to-close-seattle-office-shutdown-impacts-73-employees/" class="teaser-thumb"><img decoding="async" width="200" height="95" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/Screenshot-2024-11-13-at-9.46.07%E2%80%AFPM-200x95.png" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/gilead-sciences-to-close-seattle-office-shutdown-impacts-73-employees/">Gilead Sciences to close Seattle office; shutdown impacts 72 employees</a></h2>
+<p>Biopharma giant Gilead Sciences will shut down its office in Seattle&#8217;s Eastlake neighborhood, the company confirmed to GeekWire on Wednesday. <a href="https://www.geekwire.com/2024/gilead-sciences-to-close-seattle-office-shutdown-impacts-73-employees/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/amazon-launching-discount-storefront-amazon-haul-with-items-under-20-longer-delivery-times/" class="teaser-thumb"><img decoding="async" width="200" height="112" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/amazonhaul-200x112.jpeg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/amazon-launching-discount-storefront-amazon-haul-with-items-under-20-longer-delivery-times/">Amazon launching discount storefront &#8216;Amazon Haul&#8217; with items under $20, longer delivery times</a></h2>
+<p>Amazon is launching a new storefront aimed at delivering a wide range of products priced $20 and under as the e-commerce giant faces increased pressure from discount retailers such as Shein, TikTok Shop and Temu. <a href="https://www.geekwire.com/2024/amazon-launching-discount-storefront-amazon-haul-with-items-under-20-longer-delivery-times/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/a-proposed-capital-gains-tax-in-seattle-draws-mixed-response-from-tech-leaders-and-lawmakers/" class="teaser-thumb"><img decoding="async" width="200" height="133" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/31068413745_10fd790a4a_c-200x133.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/a-proposed-capital-gains-tax-in-seattle-draws-mixed-response-from-tech-leaders-and-lawmakers/">A proposed capital gains tax in Seattle draws mixed response from tech leaders and city lawmakers</a></h2>
+<p>Members of the Seattle City Council&#8217;s Select Budget Committee on Wednesday debated a newly proposed 2% capital gains tax to support food and housing programs for the city&#8217;s low- and middle-income residents. <a href="https://www.geekwire.com/2024/a-proposed-capital-gains-tax-in-seattle-draws-mixed-response-from-tech-leaders-and-lawmakers/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/tech-moves-ispots-new-cto-vmware-exec-returns-to-microsoft-expedia-cfo-to-resign/" class="teaser-thumb"><img decoding="async" width="200" height="200" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/unnamed1-200x200.png" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/tech-moves-ispots-new-cto-vmware-exec-returns-to-microsoft-expedia-cfo-to-resign/">Tech Moves: iSpot&#8217;s new CTO; VMWare exec returns to Microsoft; Expedia CFO to resign</a></h2>
+<p>&#8212; Nipun Dureja is now chief technology officer for iSpot, a Bellevue, Wash., company that measures the impact of advertising campaigns on TV and video streaming. <a href="https://www.geekwire.com/2024/tech-moves-ispots-new-cto-vmware-exec-returns-to-microsoft-expedia-cfo-to-resign/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/the-buzz-at-seattle-auto-show-test-driving-vws-new-van-plus-more-cool-evs-not-made-by-tesla/" class="teaser-thumb"><img decoding="async" width="200" height="152" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/autoshow1-200x152.jpeg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/the-buzz-at-seattle-auto-show-test-driving-vws-new-van-plus-more-cool-evs-not-made-by-tesla/">The Buzz at Seattle Auto Show: Test driving VW&#8217;s new van, plus more cool EVs not made by Tesla</a></h2>
+<p>As I pulled away from the Seattle International Auto Show on Thursday during a test drive of the highly anticipated Volkswagen &#8220;ID. <a href="https://www.geekwire.com/2024/the-buzz-at-seattle-auto-show-test-driving-vws-new-van-plus-more-cool-evs-not-made-by-tesla/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/living-computers-vet-rescues-1986-mac-from-thrift-store-and-gets-it-to-run-chatgpt-and-much-more/" class="teaser-thumb"><img decoding="async" width="200" height="155" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/hunter_irving_geekwire_1-200x155.jpeg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/living-computers-vet-rescues-1986-mac-from-thrift-store-and-gets-it-to-run-chatgpt-and-much-more/">Living Computers vet rescues 1986 Mac from thrift store and gets it to run ChatGPT and much more</a></h2>
+<p>Hunter Irving is like a tech time traveler. <a href="https://www.geekwire.com/2024/living-computers-vet-rescues-1986-mac-from-thrift-store-and-gets-it-to-run-chatgpt-and-much-more/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/meet-amperitys-new-ceo-former-salesforce-exec-takes-reins-at-customer-data-startup/" class="teaser-thumb"><img decoding="async" width="200" height="200" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/Tony-Alika-Owen-200x200.jpeg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/meet-amperitys-new-ceo-former-salesforce-exec-takes-reins-at-customer-data-startup/">Meet Amperity&#8217;s new CEO: Former Salesforce exec takes reins at customer data startup</a></h2>
+<p>Tony Alika Owens, a longtime tech exec who previously spent a decade at Salesforce, was named CEO at Amperity, a Seattle-based startup that helps companies collect and manage customer data. <a href="https://www.geekwire.com/2024/meet-amperitys-new-ceo-former-salesforce-exec-takes-reins-at-customer-data-startup/">&hellip; Read More</a></p>
+</article>
+<article class="teaser"><a href="https://www.geekwire.com/2024/tech-moves-zillow-names-new-coo-as-longtime-execs-depart-vouched-hires-cto-fred-hutch-gets-new-leader/" class="teaser-thumb"><img decoding="async" width="200" height="150" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/ZILLOW_Jun_Choo1-200x150.jpg" class="attachment-featured size-featured wp-post-image" alt="" loading="lazy"></a></p>
+<h2><a href="https://www.geekwire.com/2024/tech-moves-zillow-names-new-coo-as-longtime-execs-depart-vouched-hires-cto-fred-hutch-gets-new-leader/">Tech Moves: Zillow Group names new COO as longtime execs depart</a></h2>
+<p>Seattle real estate tech company Zillow Group promoted Jun Choo to the role of chief operating officer. <a href="https://www.geekwire.com/2024/tech-moves-zillow-names-new-coo-as-longtime-execs-depart-vouched-hires-cto-fred-hutch-gets-new-leader/">&hellip; Read More</a></p>
+</article>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"849210";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:59:"
+		
+		
+		
+		
+				
+		
+		
+		
+		
+		
+
+		
+				
+								
+								";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:90:"How Amazon is adapting to the TikTok generation, and what it says about the state of Prime";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:120:"https://www.geekwire.com/2024/how-amazon-is-adapting-to-the-tiktok-generation-and-what-it-says-about-the-state-of-prime/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 16 Nov 2024 15:54:16 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:6:{i:0;a:5:{s:4:"data";s:6:"Amazon";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:8:"Podcasts";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:11:"Amazon Haul";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:12:"Amazon Prime";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:4;a:5:{s:4:"data";s:39:"Consumer Intelligence Research Partners";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:5;a:5:{s:4:"data";s:6:"tiktok";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"https://www.geekwire.com/?p=849163";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1477:"<img width="1260" height="840" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-1260x840.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-1260x840.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-768x512.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-1536x1024.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-630x420.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime.jpg 1600w" sizes="(max-width: 1260px) 100vw, 1260px"><br>This week on the GeekWire Podcast, we dive into Amazon&#8217;s new &#8220;Haul&#8221; discount storefront — a rival to Temu, Shein, and TikTok Shop — and explore what it says about the future of e-commerce, and generational shifts in shopping. Guests&#160;Michael Levin and Josh Lowitz of Consumer Intelligence Research Partners (CIRP) join the show to provide insights into the long-term trends around Amazon Prime membership and consumer behaviors on the platform. Related links and coverage Top takeaways Prime numbers: CIRP&#8217;s research shows that Amazon Prime membership has steadily expanded from a mostly younger demographic to a broader set of consumers over&#8230; <a href="https://www.geekwire.com/2024/how-amazon-is-adapting-to-the-tiktok-generation-and-what-it-says-about-the-state-of-prime/">Read More</a>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Todd Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:6149:"
+<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="1067" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime.jpg" alt="" class="wp-image-849167" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime.jpg 1600w, https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-1260x840.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-768x512.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-1536x1024.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/amazon-prime-630x420.jpg 630w" sizes="(max-width: 1600px) 100vw, 1600px" /><figcaption class="wp-element-caption">Amazon Haul offers items of less than $20 each, delivered in a week or more. (BigStock Photo)</figcaption></figure>
+
+
+
+<p><strong>This week on the GeekWire Podcast,</strong> we dive into <a href="https://www.geekwire.com/2024/amazon-launching-discount-storefront-amazon-haul-with-items-under-20-longer-delivery-times/">Amazon&#8217;s new &#8220;Haul&#8221; discount storefront </a>— a rival to Temu, Shein, and TikTok Shop — and explore what it says about the future of e-commerce, and generational shifts in shopping.</p>
+
+
+
+<p>Guests&nbsp;<a href="https://www.linkedin.com/in/michaelrlevin/">Michael Levin</a> and <a href="https://www.linkedin.com/in/jlowitz/">Josh Lowitz</a> of <a href="https://www.cirpllc.com/">Consumer Intelligence Research Partners</a> (CIRP) join the show to provide insights into the long-term trends around Amazon Prime membership and consumer behaviors on the platform.</p>
+
+
+
+<iframe loading="lazy" src="https://omny.fm/shows/geekwire-podcast/how-amazon-is-adapting-to-the-tiktok-generation/embed?style=cover&#038;image=1&#038;description=1&#038;download=1&#038;playlistImages=1&#038;playlistShare=1&#038;share=1&#038;subscribe=1&#038;background=f5f5f5&#038;foreground=94381d&#038;highlight=cb4d28" allow="autoplay; clipboard-write" width="100%" height="180" frameborder="0" title="How Amazon is adapting to the TikTok generation"></iframe>
+
+
+
+<h4 class="wp-block-heading"><strong>Related links and coverage</strong></h4>
+
+
+
+<ul class="wp-block-list">
+<li><strong>CIRP</strong>: <a href="https://cirpamazon.substack.com/">Amazon Report on Substack</a>. (Check out <a href="https://cirpapple.substack.com/">their Apple Report</a>, as well.)</li>
+
+
+
+<li><strong>GeekWire:</strong> <a href="https://www.geekwire.com/2024/hands-on-with-amazon-haul-first-impressions-of-the-e-commerce-giants-new-temu-and-shein-rival/">Hands-on with Amazon Haul: First impressions of the e-commerce giant’s new Temu and Shein rival</a></li>
+
+
+
+<li><strong>Amazon:</strong> <a href="https://www.aboutamazon.com/news/retail/affordable-products-amazon-20-dollars-and-under">Introducing Amazon Haul—a broad selection of products $20 or less, with most under $10</a></li>
+
+
+
+<li><strong>Business Insider: </strong><a href="https://www.businessinsider.com/amazon-haul-temu-shein-compared-which-is-better-worse-2024-11">Amazon&#8217;s new discount section, &#8216;Haul,&#8217; looks like a Temu version of Temu</a></li>
+</ul>
+
+
+
+<h4 class="wp-block-heading">Top takeaways</h4>
+
+
+
+<p><strong>Prime numbers:</strong> CIRP&#8217;s research shows that Amazon Prime membership has steadily expanded from a mostly younger demographic to a broader set of consumers over the years. </p>
+
+
+
+<ul class="wp-block-list">
+<li>Prime membership has grown from around 17 million people in the U.S. more than a decade ago to nearly 200 million individual U.S. members today, reflecting its dominant position in e-commerce.</li>
+
+
+
+<li>Amazon&#8217;s logistics improvements have allowed it to reach more customers in suburban and rural areas, causing the Prime member base to evolve over time to reflect the broader U.S. population.</li>
+
+
+
+<li>Amazon reported about $40 billion in revenue from subscriptions last year, which is believed to consist largely of Prime memberships. That translated into about 7% of the company&#8217;s overall revenue.</li>
+</ul>
+
+
+
+<p><strong>Why launch a Temu and Shein rival?</strong> The key drivers are competitive pressures, the desire to retain younger customers, and Amazon&#8217;s strategy of experimentation and diversification within e-commerce. </p>
+
+
+
+<ul class="wp-block-list">
+<li>Temu’s U.S. e-commerce market share<a href="https://www.wsj.com/business/retail/amazon-launches-haul-to-sell-sub-20-products-to-compete-with-temu-shein-7ee9b3b7?mod=Searchresults_pos2&amp;page=1">&nbsp;is projected by eMarketer</a>&nbsp;to grow from 0.7% this year to 2.3% next year, making it difficult for Amazon to ignore.</li>
+
+
+
+<li>By offering a similar discount-focused shopping experience via Amazon Haul, the company can try to prevent customers from being lured away to competing platforms.</li>
+
+
+
+<li>Even if it doesn&#8217;t succeed, Haul allows Amazon to test out new shopping models that cater to different consumer preferences, and inform its overall online experience.</li>
+</ul>
+
+
+
+<p><strong>The state of the consumer relationship with Prime: </strong>Overall, Amazon has a positive relationship with the typical U.S. consumer, CIRP&#8217;s research indicates.</p>
+
+
+
+<ul class="wp-block-list">
+<li>Amazon Prime members tend to engage in more frequent, smaller transactions — bringing a &#8220;convenience store&#8221; mentality to the larger world of online shopping.</li>
+
+
+
+<li>The desire to make the most of their Prime membership subscription leads many members to shop on Amazon first before considering other options, even if they don&#8217;t have an immediate need.</li>
+
+
+
+<li>In terms of challenges and opportunities, the grocery business remains a tough nut for Amazon to crack, and it&#8217;s unclear what level of dominance, if any, the company will achieve in that space.</li>
+</ul>
+
+
+
+<p><strong>Subscribe to GeekWire in <a href="https://podcasts.apple.com/us/podcast/geekwire/id427374434?app=podcast&amp;mt=2">Apple Podcasts</a>, <a href="https://open.spotify.com/show/2PPEGel5l0v3XxlD8fVxAh">Spotify</a>, or wherever you listen.</strong></p>
+
+
+
+<p><em>Audio editing by Curt Milton.</em></p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"849163";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:44:"
+		
+		
+		
+		
+				
+
+		
+				
+								
+								";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:98:"Internal emails: Elon Musk wanted to keep OpenAI from becoming ‘Microsoft’s marketing bitch’";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:119:"https://www.geekwire.com/2024/internal-emails-elon-musk-wanted-to-keep-openai-from-becoming-microsofts-marketing-bitch/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 15 Nov 2024 23:48:32 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:1:{i:0;a:5:{s:4:"data";s:9:"Microsoft";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"https://www.geekwire.com/?p=849105";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1302:"<img width="1024" height="694" src="https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-1024x694.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-1024x694.jpg 1024w, https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-620x420.jpg 620w, https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211.jpg 1702w" sizes="(max-width: 1024px) 100vw, 1024px"><br>Elon Musk, an original co-founder of OpenAI, attempted to keep the organization from becoming too cozy with Microsoft in an early cloud computing deal with the Redmond company. &#8220;This actually made me feel nauseous. It sucks and is exactly what I would expect from them,&#8221; Musk wrote in a 2016 email thread with OpenAI&#8217;s Sam Altman, commenting on Microsoft&#8217;s proposal to provide $60 million in cloud computing credits for $10 million, a $50 million discount on their commercial value, if OpenAI also agreed to &#8220;evangelize&#8221; Microsoft Azure as its preferred cloud provider. Altman responded, in part, &#8220;I had the same&#8230; <a href="https://www.geekwire.com/2024/internal-emails-elon-musk-wanted-to-keep-openai-from-becoming-microsofts-marketing-bitch/">Read More</a>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:11:"Todd Bishop";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:6071:"
+<figure class="wp-block-image size-full-width"><img loading="lazy" decoding="async" width="620" height="420" src="https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-620x420.jpg" alt="" class="wp-image-150496" srcset="https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-620x420.jpg 620w, https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211-1024x694.jpg 1024w, https://cdn.geekwire.com/wp-content/uploads/2015/01/muskelon1211.jpg 1702w" sizes="(max-width: 620px) 100vw, 620px" /><figcaption class="wp-element-caption">Elon Musk in Seattle in 2015. (GeekWire File Photo / Taylor Soper)</figcaption></figure>
 
 
 
@@ -97,7 +268,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="2624" height="1752" src="https://cdn.geekwire.com/wp-content/uploads/2023/11/satya.jpg" alt="" class="wp-image-797547" srcset="https://cdn.geekwire.com/wp-content/uploads/2023/11/satya.jpg 2624w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-1260x841.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-768x513.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-1536x1026.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-2048x1367.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-630x421.jpg 630w" sizes="(max-width: 2624px) 100vw, 2624px" /><figcaption class="wp-element-caption">Microsoft CEO Satya Nadella, right, on stage with OpenAI CEO Sam Altman at OpenAI Dev Day in San Francisco in 2023. (GeekWire File Photo / Todd Bishop)</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="2624" height="1752" src="https://cdn.geekwire.com/wp-content/uploads/2023/11/satya.jpg" alt="" class="wp-image-797547" srcset="https://cdn.geekwire.com/wp-content/uploads/2023/11/satya.jpg 2624w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-1260x841.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-768x513.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-1536x1026.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-2048x1367.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2023/11/satya-630x421.jpg 630w" sizes="(max-width: 2624px) 100vw, 2624px" /><figcaption class="wp-element-caption">Microsoft CEO Satya Nadella, right, on stage with OpenAI CEO Sam Altman at OpenAI Dev Day in San Francisco in 2023. (GeekWire File Photo / Todd Bishop)</figcaption></figure>
 
 
 
@@ -134,7 +305,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <iframe loading="lazy" class="scribd_iframe_embed" title="Elon Musk - Sam Altman - 2016 email thread" src="https://www.scribd.com/embeds/792840121/content?start_page=1&#038;view_mode=scroll&#038;access_key=key-c9Xa8TwTlVa1Yyqy8VSV" tabindex="0" data-auto-height="true" data-aspect-ratio="0.7729220222793488" scrolling="no" width="100%" height="600" frameborder="0"></iframe><p  style="   margin: 12px auto 6px auto;   font-family: Helvetica,Arial,Sans-serif;   font-style: normal;   font-variant: normal;   font-weight: normal;   font-size: 14px;   line-height: normal;   font-size-adjust: none;   font-stretch: normal;   -x-system-font: none;   display: block;"   ><a title="View Elon Musk - Sam Altman - 2016 email thread on Scribd" href="https://www.scribd.com/document/792840121/Elon-Musk-Sam-Altman-2016-email-thread#from_embed"  style="text-decoration: underline;">Elon Musk &#8211; Sam Altman &#8211; 20&#8230;</a> by <a title="View GeekWire's profile on Scribd" href="https://www.scribd.com/user/330039756/GeekWire#from_embed"  style="text-decoration: underline;">GeekWire</a></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"849105";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:1;a:6:{s:4:"data";s:47:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"849105";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:47:"
 		
 		
 		
@@ -249,7 +420,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>To hear more about Momento&#8217;s journey and Shams&#8217; insights on cloud infrastructure and startup leadership, check out the full Startup Project podcast episode <a href="https://open.spotify.com/show/3Cx7Q5r9Ow9eikxQjsJjjq?si=0fb2563eeea945fd">here</a>.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"849040";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:2;a:6:{s:4:"data";s:62:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"849040";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:62:"
 		
 		
 		
@@ -313,7 +484,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>AST SpaceMobile faces competition in the low-Earth-orbit satellite telecom market from SpaceX&#8217;s <a href="https://www.geekwire.com/tag/starlink/">Starlink network</a> (which has a <a href="https://www.geekwire.com/2024/spacex-first-starlink-satellite-t-mobile-direct-cell/">cellular deal with T-Mobile</a>) and Eutelsat&#8217;s <a href="https://oneweb.net/">OneWeb network</a>. Next year, Amazon&#8217;s <a href="https://www.geekwire.com/tag/project-kuiper/">Project Kuiper</a> network is due to join the fray. For what it&#8217;s worth, Project Kuiper also has reserved New Glenn rockets, and SpaceX&#8217;s Falcon 9 rockets have been tasked with sending up satellites for Starlink, Kuiper and OneWeb.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848998";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:3;a:6:{s:4:"data";s:56:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848998";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:56:"
 		
 		
 		
@@ -517,7 +688,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <figure class="wp-block-image size-full-width"><img loading="lazy" decoding="async" width="630" height="518" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/auto20-630x518.jpeg" alt="" class="wp-image-848978" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/auto20-630x518.jpeg 630w, https://cdn.geekwire.com/wp-content/uploads/2024/11/auto20-1260x1036.jpeg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/auto20-768x631.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/auto20-1536x1263.jpeg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/auto20-2048x1683.jpeg 2048w" sizes="(max-width: 630px) 100vw, 630px" /><figcaption class="wp-element-caption">GeekWire&#8217;s Kurt Schlosser with the vehicle he wanted to drive away from the Seattle Auto Show on Thursday — Volkswagen&#8217;s ID. Buzz van. (GeekWire Photo via Tom Voelk)</figcaption></figure>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848931";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:4;a:6:{s:4:"data";s:68:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848931";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:68:"
 		
 		
 		
@@ -678,7 +849,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>&#8220;His commitment to advancing our mission and this category has inspired our progress and positioned us at the forefront of innovation,&#8221; the company said.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848939";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:5;a:6:{s:4:"data";s:53:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848939";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:53:"
 		
 		
 		
@@ -733,7 +904,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p><a href="https://www.linkedin.com/in/ashu-bhalla-b44bb73">Ashu Bhalla</a>, partner at Moneta Ventures, is joining Osyte&#8217;s board as a result of the funding. </p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848864";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:6;a:6:{s:4:"data";s:44:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848864";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:44:"
 		
 		
 		
@@ -844,7 +1015,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:7;a:6:{s:4:"data";s:44:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848900";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:44:"
 		
 		
 		
@@ -917,7 +1088,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848887";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:8;a:6:{s:4:"data";s:56:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848887";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:56:"
 		
 		
 		
@@ -1013,7 +1184,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>In the meantime, I&#8217;m looking forward to trying out that cell phone stand and adjustable cable cords in the next week or so. I&#8217;ll post an update about the receiving experience after I get my first Amazon Haul.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848879";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:9;a:6:{s:4:"data";s:56:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848879";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:56:"
 		
 		
 		
@@ -1077,7 +1248,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>Founded in 2018, Prenuvo has raised more than $70 million.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848737";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:10;a:6:{s:4:"data";s:65:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848737";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:65:"
 		
 		
 		
@@ -1134,7 +1305,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>Earth Copilot is currently being tested by NASA researchers to explore its capabilities. After the platform is evaluated and fine-tuned, the <a href="https://impact.earthdata.nasa.gov/">NASA IMPACT team</a> will look into making it part of its Visualization, Exploration and Data Analysis Project &#8212; <a href="https://www.earthdata.nasa.gov/data/tools/veda">also known as VEDA</a>.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848815";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:11;a:6:{s:4:"data";s:47:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848815";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:47:"
 		
 		
 		
@@ -1161,7 +1332,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 <li>Founded in 2016, RealWear sells rugged head-mounted voice-controlled devices that project a virtual Android tablet below a user’s line of sight. Frontline workers in manufacturing, automotive, and healthcare use the product for remote video calling, document navigation, guided workflow, mobile forms, data visualization, and more. <br></li>
 </ul>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848860";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:12;a:6:{s:4:"data";s:50:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848860";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:50:"
 		
 		
 		
@@ -1202,7 +1373,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>&#8220;Automated testing is becoming more crucial as AI assisted software development rapidly becomes the de-facto way of building software in a market that is pushing for faster, more efficient software delivery from software engineers,&#8221; said Andres Barreto, managing director at Techstars. &#8220;We believe the Testsprite team and product is poised to become the leader in this new market shift.&#8221;</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848828";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:13;a:6:{s:4:"data";s:47:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848828";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:47:"
 		
 		
 		
@@ -1229,7 +1400,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 <li>Other large biopharma companies with satellite offices in the Seattle region include Astellas Biopharma, <a href="https://www.geekwire.com/2023/biotech-giant-moderna-will-open-tech-office-in-seattle-plans-to-hire-up-to-220-workers/">Moderna</a>, 2seventy bio and Bristol Myers Squibb.</li>
 </ul>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848814";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:14;a:6:{s:4:"data";s:47:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848814";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:47:"
 		
 		
 		
@@ -1278,7 +1449,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>YL Ventures, based in Silicon Valley and Tel Aviv, led the seed round. Other leaders at publicly traded cybersecurity companies also invested. </p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:15;a:6:{s:4:"data";s:50:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848800";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:50:"
 		
 		
 		
@@ -1496,7 +1667,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>There are 164 proposed amendments to the city budget, and the committee will begin voting on them starting tomorrow and finishing Tuesday.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848510";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:16;a:6:{s:4:"data";s:56:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848510";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:56:"
 		
 		
 		
@@ -1562,7 +1733,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>Those three missions will make use of the Otter spacecraft supported by the new funding round. Last month, Starfish <a href="https://www.geekwire.com/2024/starfish-space-nro-orbital-maneuvers/">won a study contract from the National Reconnaissance Office</a> to look into further applications for Otter.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848721";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:17;a:6:{s:4:"data";s:59:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848721";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:59:"
 		
 		
 		
@@ -1917,7 +2088,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848533";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:18;a:6:{s:4:"data";s:47:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848533";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:20;a:6:{s:4:"data";s:47:"
 		
 		
 		
@@ -1966,7 +2137,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>Shein has grown to become one of the leading online destinations for trendy, low-priced fashion items favored by young shoppers. The Singapore-based company, along with TikTok parent ByteDance, recently <a href="https://www.geekwire.com/2024/another-fast-fashion-giant-plants-flag-in-amazons-backyard-as-shein-opens-bellevue-office/">grabbed office space</a> in Amazon&#8217;s backyard in Bellevue, Wash.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848644";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:19;a:6:{s:4:"data";s:53:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848644";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:21;a:6:{s:4:"data";s:53:"
 		
 		
 		
@@ -2017,7 +2188,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>Big thanks to the GeekWire Gala presenting sponsor, <a href="https://www.firsttechfed.com/">First Tech Federal Credit Union</a>; gold sponsors Greater Seattle Partners and Network of Giving; silver sponsor Delta Air Lines; and supporting sponsors Showbox Presents, Washington State Department of Commerce, and ALLtech.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848551";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:20;a:6:{s:4:"data";s:47:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848551";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:22;a:6:{s:4:"data";s:47:"
 		
 		
 		
@@ -2109,7 +2280,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>Crimmins has a small team that helps run operations for Startup Haven, as well as venture partners (<a href="https://www.linkedin.com/in/jaywesterdal/">Jay Westerdal</a> and <a href="https://www.linkedin.com/in/arryshin/">Arry Yu</a>) and an investment director (<a href="https://www.linkedin.com/in/mbembac/">Claudius Mbemba</a>) that support the fund. There are also <a href="https://startuphaven.com/team/">chapter directors</a> in each city.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"847650";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:21;a:6:{s:4:"data";s:59:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"847650";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:23;a:6:{s:4:"data";s:59:"
 		
 		
 		
@@ -2158,7 +2329,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>Starform’s latest round fits into what’s become a modest upswing in VC funding for the games industry. After a sustained lean period over the last two years, total deal value in the space has risen for four consecutive quarters, <a href="https://pitchbook.com/news/reports/q3-2024-gaming-report">as tracked by PitchBook</a>. It suggests that investors are slowly moving back into the industry after the post-COVID bust, which saw a plummet in deal value and a sustained period of contraction.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848532";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:22;a:6:{s:4:"data";s:59:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848532";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:24;a:6:{s:4:"data";s:59:"
 		
 		
 		
@@ -2211,7 +2382,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>The site pointed out that Apple’s HomeKit Secure Video service (HKSV), which is included in Apple’s iCloud plan, stores recorded footage from cameras. It requires an Apple Home Hub, such as a HomePod or AppleTV, which can analyze footage and send specific alerts for people, animals, vehicles, and packages. The Verge added that Apple’s smart home platform, Apple Home, currently supports integration with third-party cameras from several companies for live streaming footage to the app, but only a handful of cameras support HKSV.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848507";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:23;a:6:{s:4:"data";s:47:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848507";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:25;a:6:{s:4:"data";s:47:"
 		
 		
 		
@@ -2303,7 +2474,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>&#8220;I&#8217;m incredibly excited and confident in Tony&#8217;s leadership as we enter our next phase of growth,&#8221; Slager said in a statement.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848408";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:24;a:6:{s:4:"data";s:56:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848408";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:26;a:6:{s:4:"data";s:56:"
 		
 		
 		
@@ -2457,7 +2628,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>&#8220;It&#8217;s incredibly rewarding,&#8221; Shumlak added, &#8220;and I can think of no larger impact that you could possibly make than by trying to solve fusion energy.&#8221;</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848058";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:25;a:6:{s:4:"data";s:53:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848058";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:27;a:6:{s:4:"data";s:53:"
 		
 		
 		
@@ -2659,7 +2830,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 				<path fill="#fff" d="M2 0a2 2 0 0 0-2 2v2h1.5V2a.5.5 0 0 1 .5-.5h2V0H2Zm2 10.5H2a.5.5 0 0 1-.5-.5V8H0v2a2 2 0 0 0 2 2h2v-1.5ZM8 12v-1.5h2a.5.5 0 0 0 .5-.5V8H12v2a2 2 0 0 1-2 2H8Zm2-12a2 2 0 0 1 2 2v2h-1.5V2a.5.5 0 0 0-.5-.5H8V0h2Z" />
 			</svg>
 		</button><figcaption class="wp-element-caption">The team featuring GeekWire members and others after escaping &#8220;Tomb Raider&#8221; in Seattle. </figcaption></figure>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848420";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:26;a:6:{s:4:"data";s:62:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848420";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:28;a:6:{s:4:"data";s:62:"
 		
 		
 		
@@ -2761,7 +2932,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>&#8220;I took a leap of faith on Meta, and it certainly took one on me,&#8221; he said. &#8220;As I look back over my tenure, I can say it is one of the best professional decisions I have ever made. I’ve grown tremendously as a leader and have had a front-row seat to what world-class execution, strategy and people management looks like.&#8221;</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848378";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:27;a:6:{s:4:"data";s:59:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848378";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:29;a:6:{s:4:"data";s:59:"
 		
 		
 		
@@ -2904,7 +3075,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>&#8220;What&#8217;s cool about it is it shouldn&#8217;t be possible, it shouldn&#8217;t be able to exist,&#8221; Irving said. &#8220;It&#8217;s like the future meeting the past. It&#8217;s a time machine that shocks you a little bit initially, and then you&#8217;re like, &#8216;Whoa, OK, this is kind of fun.'&#8221;</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"847908";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:28;a:6:{s:4:"data";s:44:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"847908";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:30;a:6:{s:4:"data";s:44:"
 		
 		
 		
@@ -2958,7 +3129,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 <h2><a href="https://www.geekwire.com/2024/expedia-chairman-barry-diller-on-potential-deal-with-uber-and-washington-posts-blunder/">Expedia chairman Barry Diller on potential deal with Uber and Washington Post&#8217;s &#8216;blunder&#8217;</a></h2>
 <p>Expedia chairman Barry Diller told CNBC on Monday that a rumored acquisition of Uber is &#8220;just not going to happen.&#8221; A report from the&nbsp;Financial Times&nbsp;last month revealed that Uber had explored a potential bid for Seattle-based travel giant Expedia Group. <a href="https://www.geekwire.com/2024/expedia-chairman-barry-diller-on-potential-deal-with-uber-and-washington-posts-blunder/">&hellip; Read More</a></p>
 </article>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848327";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:29;a:6:{s:4:"data";s:56:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848327";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:31;a:6:{s:4:"data";s:56:"
 		
 		
 		
@@ -2972,7 +3143,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 		
 				
 								
-								";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Zillow is the future of the Multiple Listing Service, says Compass CEO";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:100:"https://www.geekwire.com/2024/zillow-is-the-future-of-the-multiple-listing-service-says-compass-ceo/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 09 Nov 2024 19:16:03 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:5:{i:0;a:5:{s:4:"data";s:11:"Real Estate";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:15:"Brian Donnellan";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:15:"Errol Samuelson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:21:"Kymber Lovett-Menkiti";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:4;a:5:{s:4:"data";s:14:"Robert Reffkin";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"https://www.geekwire.com/?p=848309";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1416:"<img width="1260" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-1260x945.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-1260x945.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-768x576.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-1536x1152.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-2048x1536.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-630x473.jpg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>[This story originally appeared on&#160;Real Estate News.] BOSTON — Compass CEO Robert Reffkin has been vocal in his opposition to the National Association of Realtors&#8217; Clear Cooperation Policy, which requires properties to be listed on the Multiple Listing Service within a day of being publicly marketed. Which may be why people packed the conference room at the NAR NXT conference on Friday, buzzing with more anticipation than one might expect for a conversation about the future of multiple listing services. The panel was packed too: Reffkin was joined by the CEOs of the nation&#8217;s two largest MLSs — Art Carter&#8230; <a href="https://www.geekwire.com/2024/zillow-is-the-future-of-the-multiple-listing-service-says-compass-ceo/">Read More</a>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:21:"Stephanie Reid-Simons";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:7812:"
+								";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:70:"Zillow is the future of the Multiple Listing Service, says Compass CEO";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:100:"https://www.geekwire.com/2024/zillow-is-the-future-of-the-multiple-listing-service-says-compass-ceo/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Sat, 09 Nov 2024 19:16:03 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:5:{i:0;a:5:{s:4:"data";s:11:"Real Estate";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:15:"Brian Donnellan";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:15:"Errol Samuelson";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:21:"Kymber Lovett-Menkiti";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:4;a:5:{s:4:"data";s:14:"Robert Reffkin";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"https://www.geekwire.com/?p=848309";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1416:"<img width="1260" height="945" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-1260x945.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-1260x945.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-768x576.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-1536x1152.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-2048x1536.jpg 2048w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-630x473.jpg 630w" sizes="(max-width: 1260px) 100vw, 1260px"><br>[This story originally appeared on&#160;Real Estate News.] BOSTON — Compass CEO Robert Reffkin has been vocal in his opposition to the National Association of Realtors&#8217; Clear Cooperation Policy, which requires properties to be listed on the Multiple Listing Service within a day of being publicly marketed. Which may be why people packed the conference room at the NAR NXT conference on Friday, buzzing with more anticipation than one might expect for a conversation about the future of multiple listing services. The panel was packed too: Reffkin was joined by the CEOs of the nation&#8217;s two largest MLSs — Art Carter&#8230; <a href="https://www.geekwire.com/2024/zillow-is-the-future-of-the-multiple-listing-service-says-compass-ceo/">Read More</a>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:21:"Stephanie Reid-Simons";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:7858:"
 <figure class="wp-block-image size-full-width"><img loading="lazy" decoding="async" width="630" height="473" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-630x473.jpg" alt="" class="wp-image-848311" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-630x473.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-1260x945.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-768x576.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-1536x1152.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/IMG_9178-2048x1536.jpg 2048w" sizes="(max-width: 630px) 100vw, 630px" /><figcaption class="wp-element-caption">L-R: Art Carter of CRMLS, Errol Samuelson of Zillow, Kymber Lovett-Menkiti of Keller Williams Capital Properties, and Brian Donnellan of Bright MLS at the NAR NXT conference in Boston. (Real Estate News Photo / Stephanie Reid-Simons)</figcaption></figure>
 
 
@@ -3001,7 +3172,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 
-<aside class="callout clearfix"><h4><a href="https://www.realestatenews.com/"><img decoding="async" src="https://www.geekwire.com/wp-content/themes/geekwire/dist/images/realestatenews.png" class="img-responsive" alt="Real Estate News" /></a></h4><ul class="list-unstyled"><li><a href="https://www.realestatenews.com/2024/11/15/people-on-the-move-top-leaders-at-fathom-take-on-expanded-roles"><p>People on the Move: Top leaders at Fathom take on expanded roles</p></a></li><li><a href="https://www.realestatenews.com/2024/11/14/homebuying-demand-ticks-up-despite-elevated-rates"><p>Homebuying demand ticks up despite elevated rates</p></a></li><li><a href="https://www.realestatenews.com/2024/11/14/zillow-president-steps-down-company-names-new-coo"><p>Zillow president steps down, company names new COO</p></a></li></ul></aside>
+<aside class="callout clearfix"><h4><a href="https://www.realestatenews.com/"><img decoding="async" src="https://www.geekwire.com/wp-content/themes/geekwire/dist/images/realestatenews.png" class="img-responsive" alt="Real Estate News" /></a></h4><ul class="list-unstyled"><li><a href="https://www.realestatenews.com/2024/11/16/5-ways-small-firms-can-make-a-big-impact-without-a-big-budget"><p>5 ways small firms can make a big impact without a big budget</p></a></li><li><a href="https://www.realestatenews.com/2024/11/16/brokerage-beat-mergers-for-kw-and-united-increase-market-share"><p>Brokerage Beat: Mergers for KW and United increase market share</p></a></li><li><a href="https://www.realestatenews.com/2024/11/15/doj-will-get-their-wings-clipped-predicts-brokerage-leader"><p>DOJ will ‘get their wings clipped,’ predicts brokerage leader</p></a></li></ul></aside>
 
 
 
@@ -3082,7 +3253,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p>Reffkin&#8217;s answer: &#8220;I think the concept that we&#8217;re debating, of whether or not homeowners have a choice, is beyond me.&#8221;</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848309";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:30;a:6:{s:4:"data";s:62:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848309";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:32;a:6:{s:4:"data";s:62:"
 		
 		
 		
@@ -3148,7 +3319,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p><em>With GeekWire co-founders Todd Bishop and John Cook.</em></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848287";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:31;a:6:{s:4:"data";s:50:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848287";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:33;a:6:{s:4:"data";s:50:"
 		
 		
 		
@@ -3243,7 +3414,7 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848251";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:32;a:6:{s:4:"data";s:56:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848251";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:34;a:6:{s:4:"data";s:56:"
 		
 		
 		
@@ -3295,184 +3466,6 @@ a:6:{s:5:"child";a:1:{s:0:"";a:1:{s:3:"rss";a:1:{i:0;a:6:{s:4:"data";s:3:"
 
 
 <p></p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848240";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:33;a:6:{s:4:"data";s:47:"
-		
-		
-		
-		
-				
-		
-
-		
-				
-								
-								";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:99:"Remitly co-founder joins English soccer team’s ownership group, with plans to harness tech and AI";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:126:"https://www.geekwire.com/2024/remitly-co-founder-joins-english-soccer-teams-ownership-group-with-plans-to-harness-tech-and-ai/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 08 Nov 2024 19:15:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:9:"Geek Life";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:6:"soccer";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"https://www.geekwire.com/?p=848031";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1395:"<img width="1260" height="709" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-1260x709.jpg" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-1260x709.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-768x432.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-1536x864.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-630x354.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC.jpg 1920w" sizes="(max-width: 1260px) 100vw, 1260px"><br>Shivaas Gulati needed a break. More than 11 years after helping to start Remitly, the Seattle digital remittance company, Gulati said building a tech company had taken its toll. In 2022, he moved with his family to London to step back and recharge and see how a couple years away would feel. Energized and starting to think again about the passions and hobbies that excite him, Gulati zeroed in on something earlier this year. &#8220;One day I was like, &#8216;I see a lot of football,&#8221; he said, using the more ubiquitous term for soccer outside of the U.S. He began&#8230; <a href="https://www.geekwire.com/2024/remitly-co-founder-joins-english-soccer-teams-ownership-group-with-plans-to-harness-tech-and-ai/">Read More</a>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:14:"Kurt Schlosser";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:5890:"
-<figure class="wp-block-image size-full-width"><img loading="lazy" decoding="async" width="630" height="354" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-630x354.jpg" alt="" class="wp-image-848193" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-630x354.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-1260x709.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-768x432.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC-1536x864.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Shivaas-SUFC.jpg 1920w" sizes="(max-width: 630px) 100vw, 630px" /><figcaption class="wp-element-caption">Shivaas Gulati, a longtime Seattle entrepreneur and investor, at Roots Hall Football Stadium in Prittlewell, Southend-on-Sea, England, where the Southend United Shrimpers play. (Whitby-Boot Photography / Southend United) </figcaption></figure>
-
-
-
-<p><a href="https://www.linkedin.com/in/shivaas/">Shivaas Gulati</a> needed a break.</p>
-
-
-
-<p>More than 11 years after helping to start <a href="https://www.remitly.com/us/en">Remitly</a>, the Seattle digital remittance company, Gulati said building a tech company had taken its toll. In 2022, he moved with his family to London to step back and recharge and see how a couple years away would feel.</p>
-
-
-
-<p>Energized and starting to think again about the passions and hobbies that excite him, Gulati zeroed in on something earlier this year.</p>
-
-
-
-<p>&#8220;One day I was like, &#8216;I see a lot of football,&#8221; he said, using the more ubiquitous term for soccer outside of the U.S.</p>
-
-
-
-<p>He began to explore where his passion for sports and soccer could intersect with his tech background, seeking to better understand how soccer clubs are run, what the business challenges are, and if and how they use technology.</p>
-
-
-
-<p>&#8220;Tech is everywhere,&#8221; Gulati said. &#8220;Every company uses it in some way or the other. And sports is no different.&#8221;</p>
-
-
-
-<p>After talking to numerous clubs, Gulati seized on the opportunity to join an ownership consortium that purchased <a href="https://www.southendunited.co.uk/">Southend United</a>, a football club founded in 1906 and located in Southend-on-Sea, about an hour from London. The team competes in the National League — the fifth tier of English football, in which the Premier League is tops.</p>
-
-
-
-<p>The announcement was made official on Friday, and with his investment and board seat, Gulati becomes the 11th member of the consortium — dubbed Custodians of Southend United. </p>
-
-
-
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="630" height="360" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/co-founders-630x360-1.jpg" alt="" class="wp-image-848226"/><figcaption class="wp-element-caption">Shivaas Gulati, right, with Remitly co-founders Josh Hug, left, and Matt Oppenheimer. (Remitly File Photo)
-</figcaption></figure>
-
-
-
-<p>Gulati has also returned to Seattle where he remains plugged into Seattle&#8217;s tech scene. The longtime angel investor recently joined the board of <a href="https://www.geekwire.com/2024/can-this-new-community-hub-provide-a-spark-for-seattles-startup-ecosystem/">Foundations</a>, an organization to support startup founders with shared workspace, mentorship and more.</p>
-
-
-
-<p>But from a distance and via frequent trips back to England, Gulati will pursue his soccer passion and use his background to help guide a more robust technology adoption at Southend. As with teams in Seattle, such as the Sounders and others, that translates to advances on the playing side —&nbsp;wearables, player analytics, game analytics, scouting, recruiting — and the business side — fan engagement, commercial opportunities, strategic partnerships, etc.</p>
-
-
-
-<p>&#8220;We can reach every fan individually in a personalized way today that wasn&#8217;t possible a decade-plus ago,&#8221; Gulati said.</p>
-
-
-
-<p>And artificial intelligence, as it seems to be doing across every other industry and business, will play a role. Gulati said the more forward-thinking organizations are already considering how to invest in and use AI.</p>
-
-
-
-<p>&#8220;If you think about a startup&#8217;s journey, you have an idea, you prototype it, you test it for a few months, and then you start to grow it, and you want to hit product market fit,&#8221; he said. &#8220;I think AI and sports will be similar, where clubs will start testing it, and then they&#8217;ll hit product market fit with that initiative, and then it&#8217;ll take off.&#8221;</p>
-
-
-
-<p>Half a million people live in Essex County where Southend is based, Gulati said. To engage with and deepen the relationship with that potential fan base, he&#8217;s thinking about software and AI.</p>
-
-
-
-<p>&#8220;I don&#8217;t have to go out and hire a team of, let&#8217;s say, performance analytics, people,&#8221; he said. &#8220;I can build those things in house and have AI help us to augment our coaching staff or uncover new business opportunities in the region.&#8221;</p>
-
-
-
-<p>Gulati and Justin Rees, an Australian entrepreneur who is chairman of the consortium, even used AI to bypass lawyers and draft Gulati&#8217;s purchase agreement and contracts.</p>
-
-
-
-<p>Sports businesses are not any different than any other business, in Gulati&#8217;s view. Challenges such as strategic alignment, execution, tracking goals, measuring performance, coming up with metrics, coming up with ideas — those same problems exist in a football club.</p>
-
-
-
-<p>And there are a lot of similarities in terms of execution.</p>
-
-
-
-<p>&#8220;The same kind of grit, tenacity, planning and iteration you need in a startup or a tech company, I hope to bring all that to Southend and use that as an advantage,&#8221; Gulati said.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848031";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}i:34;a:6:{s:4:"data";s:47:"
-		
-		
-		
-		
-				
-		
-
-		
-				
-								
-								";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";s:5:"child";a:4:{s:0:"";a:6:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:92:"Startup radar: 5 early stage companies in Seattle that are raising cash and gaining traction";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:122:"https://www.geekwire.com/2024/startup-radar-5-early-stage-companies-in-seattle-that-are-raising-cash-and-gaining-traction/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 08 Nov 2024 15:45:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:8:"category";a:2:{i:0;a:5:{s:4:"data";s:8:"Startups";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:13:"startup radar";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"guid";a:1:{i:0;a:5:{s:4:"data";s:34:"https://www.geekwire.com/?p=848025";s:7:"attribs";a:1:{s:0:"";a:1:{s:11:"isPermaLink";s:5:"false";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1688:"<img width="1154" height="1148" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-8.03.50%E2%80%AFAM.png" class="webfeedsFeaturedVisual wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-8.03.50%E2%80%AFAM.png 1154w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-8.03.50%E2%80%AFAM-150x150.png 150w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-8.03.50%E2%80%AFAM-768x764.png 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-8.03.50%E2%80%AFAM-100x100.png 100w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-8.03.50%E2%80%AFAM-630x627.png 630w" sizes="(max-width: 1154px) 100vw, 1154px"><br>We&#8217;re back with another spotlight on startups making moves in Seattle. The latest batch includes: Govstream.ai, Integrate, Sound Games, Tamnoon, and Yara AI. Some are just getting off the ground, while others have started to raise capital. Read more about the companies below, and catch up on our previous startup radar spotlight here. Send us an email at&#160;tips@geekwire.com&#160;to flag other companies or startup news we should know about. Govstream.ai Former Socrata exec Safouen Rabah recently took the startup leap with Govstream.ai, which is using artificial intelligence to help government leaders improve the permitting and urban development process. &#8220;Today, that process&#8230; <a href="https://www.geekwire.com/2024/startup-radar-5-early-stage-companies-in-seattle-that-are-raising-cash-and-gaining-traction/">Read More</a>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:32:"http://purl.org/dc/elements/1.1/";a:1:{s:7:"creator";a:1:{i:0;a:5:{s:4:"data";s:12:"Taylor Soper";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:40:"http://purl.org/rss/1.0/modules/content/";a:1:{s:7:"encoded";a:1:{i:0;a:5:{s:4:"data";s:10315:"
-<figure class="wp-block-image size-full-width"><img decoding="async" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/Screenshot-2024-11-08-at-8.03.50%E2%80%AFAM-630x627.png" alt="" class="wp-image-848198"/><figcaption class="wp-element-caption">From top left, clockwise: Yara CEO Joe Braidwood; Tamnoon CEO Marina Segal; Govstream CEO Safouen Rabah; Integrate CEO John Conafay; and Sound Games CEO Mike Schmid. (LinkedIn and company photos)</figcaption></figure>
-
-
-
-<p>We&#8217;re back with another spotlight on startups making moves in Seattle. </p>
-
-
-
-<p>The latest batch includes: <a href="https://www.govstream.ai/">Govstream.ai</a>, <a href="https://integrate.co/">Integrate</a>, <a href="https://sound.games/">Sound Games</a>, <a href="https://tamnoon.io/">Tamnoon</a>, and <a href="https://www.meetyara.com/login.html">Yara AI</a>.</p>
-
-
-
-<p>Some are just getting off the ground, while others have started to raise capital. </p>
-
-
-
-<p>Read more about the companies below, and catch up on our previous startup radar spotlight <a href="https://www.geekwire.com/2024/startup-spotlight-early-stage-tech-companies-making-moves-in-seattle/">here</a>. Send us an email at&nbsp;<a href="mailto:tips@geekwire.com">tips@geekwire.com</a>&nbsp;to flag other companies or startup news we should know about.<br></p>
-
-
-
-<p class="has-medium-font-size"><a href="https://www.govstream.ai/"><strong>Govstream.ai</strong></a></p>
-
-
-<div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="443" height="464" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/1728415968370.jpeg" alt="" class="wp-image-848133" style="width:240px;height:auto" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/1728415968370.jpeg 443w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1728415968370-286x300.jpeg 286w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1728415968370-200x209.jpeg 200w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1728415968370-95x100.jpeg 95w" sizes="(max-width: 443px) 100vw, 443px" /><figcaption class="wp-element-caption">Govstream.ai CEO Safouen Rabah. (LinkedIn Photo)</figcaption></figure></div>
-
-
-<p>Former Socrata exec <a href="https://www.linkedin.com/in/safrabah/">Safouen Rabah</a> recently <a href="https://www.linkedin.com/pulse/introducing-govstreamai-govstream-rvfbc/?trackingId=Jf%2FUX4ABRdWW7XQN%2FjhXjw%3D%3D">took the startup leap</a> with Govstream.ai, which is using artificial intelligence to help government leaders improve the permitting and urban development process. &#8220;Today, that process is a bottleneck for housing supply, a material&nbsp;contributor to rising costs, and a source of deep frustration for all involved,&#8221; Rabah told GeekWire. He was most recently a vice president at Tyler Technologies, which acquired Socrata, a Seattle-based startup that helped government agencies use and display data.&nbsp;Govstream investors include Nellore Capital Management and Socrata founder <a href="https://www.linkedin.com/in/kevinmerritt/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BPUB5BKIfSOqjIm8mFFN%2Bww%3D%3D">Kevin Merritt</a>.</p>
-
-
-
-<p class="has-medium-font-size"><a href="https://integrate.co/"><strong>Integrate</strong></a></p>
-
-
-<div class="wp-block-image">
-<figure class="alignright size-full-width is-resized"><img loading="lazy" decoding="async" width="630" height="630" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/1599602680408-630x630.jpeg" alt="" class="wp-image-848132" style="width:257px;height:auto" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/1599602680408-630x630.jpeg 630w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1599602680408-150x150.jpeg 150w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1599602680408-768x768.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1599602680408-100x100.jpeg 100w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1599602680408.jpeg 800w" sizes="(max-width: 630px) 100vw, 630px" /><figcaption class="wp-element-caption">Integrate CEO John Conafay. (LinkedIn Photo)</figcaption></figure></div>
-
-
-<p>Founded in 2022, Integrate&#8217;s software aims to help companies streamline program management for hardware development. The 11-person company has raised $5 million from investors and is nearing completion of a $1.25 million small business contract (SBIR) with the Space Force. Integrate CEO and co-founder <a href="https://www.linkedin.com/in/conafay">John Conafay</a> previously led business development for ABL Space Systems. <a href="https://www.linkedin.com/in/sloanal/">Andrew Sloan</a>, co-founder and vice president of product, was vice president of brand at Momentus. &#8220;Our customers are using Integrate to manage deliverables, requirements, and schedule directly with their vendors, contract manufacturers, and customers,&#8221; Conafay told GeekWire. </p>
-
-
-
-<p class="has-medium-font-size"><a href="https://sound.games/"><strong>Sound Games</strong></a></p>
-
-
-<div class="wp-block-image">
-<figure class="alignright size-full is-resized"><img loading="lazy" decoding="async" width="381" height="339" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/2ACC330A-8297-4494-AADA-FFA38F7B298A4984_26A.jpg" alt="" class="wp-image-848196" style="width:257px;height:auto" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/2ACC330A-8297-4494-AADA-FFA38F7B298A4984_26A.jpg 381w, https://cdn.geekwire.com/wp-content/uploads/2024/11/2ACC330A-8297-4494-AADA-FFA38F7B298A4984_26A-300x267.jpg 300w, https://cdn.geekwire.com/wp-content/uploads/2024/11/2ACC330A-8297-4494-AADA-FFA38F7B298A4984_26A-200x178.jpg 200w, https://cdn.geekwire.com/wp-content/uploads/2024/11/2ACC330A-8297-4494-AADA-FFA38F7B298A4984_26A-112x100.jpg 112w" sizes="(max-width: 381px) 100vw, 381px" /><figcaption class="wp-element-caption">Sound Games CEO Mike Schmid. (Sound Games Photo)</figcaption></figure></div>
-
-
-<p><a href="https://www.linkedin.com/in/mike-schmid/">Mike Schmid</a>, former head of publishing at Seattle startup Rec Room, is launching a new startup that is developing video games and &#8220;other things related to making games,&#8221; according to a post on <a href="https://www.linkedin.com/posts/mike-schmid_sound-games-coming-soon-activity-7259394377435734016-mfTd?utm_source=share&amp;utm_medium=member_desktop">LinkedIn</a> this week. Schmid said the company has raised initial funding. His co-founders include <a href="https://www.linkedin.com/in/jacoboabril/">Jacobo Abril</a> and <a href="https://www.linkedin.com/in/sergioabril/">Sergio Abril</a>, who previously started and led video game development company nada studio. Schmid was most recently vice president of growth at mobile gaming startup&nbsp;Backbone, and also spent four years at Apple. </p>
-
-
-
-<p class="has-medium-font-size"><a href="https://tamnoon.io/"><strong>Tamnoon</strong></a></p>
-
-
-<div class="wp-block-image">
-<figure class="alignright size-full-width is-resized"><img loading="lazy" decoding="async" width="630" height="559" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/Marina-v3-630x559.jpg" alt="" class="wp-image-848131" style="width:262px;height:auto" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/Marina-v3-630x559.jpg 630w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Marina-v3-1260x1119.jpg 1260w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Marina-v3-768x682.jpg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Marina-v3-1536x1364.jpg 1536w, https://cdn.geekwire.com/wp-content/uploads/2024/11/Marina-v3-2048x1818.jpg 2048w" sizes="(max-width: 630px) 100vw, 630px" /><figcaption class="wp-element-caption">Tamnoon CEO Marina Segal. (Tamnoon Photo)</figcaption></figure></div>
-
-
-<p>Founded in 2022, Tamnoon announced a $12 million Series A investment in September to fuel growth of its cloud security software platform that&#8217;s boosted by AI. Tamnoon CEO and co-founder <a href="https://www.linkedin.com/in/segalmarina/">Marina Segal</a> said the company can &#8220;reduce critical threat exposures to near zero in just months after deployment.&#8221; Segal previously held leadership roles at Sysdig, Check Point Software Technologies, Credit Karma, and Deloitte. Her co-founder <a href="https://www.linkedin.com/in/idan-perez-b5847537/">Idan Perez</a> was a director at Dome9 Security. Investors include Blu Ventures, Mindset Ventures, Merlin Ventures, Secret Chord Ventures, Inner Loop Capital, and Elron Ventures.</p>
-
-
-
-<p class="has-medium-font-size"><a href="https://www.meetyara.com/login.html"><strong>Yara AI</strong></a></p>
-
-
-<div class="wp-block-image">
-<figure class="alignright size-full-width is-resized"><img loading="lazy" decoding="async" width="630" height="630" src="https://cdn.geekwire.com/wp-content/uploads/2024/11/1729533172013-630x630.jpeg" alt="" class="wp-image-848129" style="width:247px;height:auto" srcset="https://cdn.geekwire.com/wp-content/uploads/2024/11/1729533172013-630x630.jpeg 630w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1729533172013-150x150.jpeg 150w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1729533172013-768x768.jpeg 768w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1729533172013-100x100.jpeg 100w, https://cdn.geekwire.com/wp-content/uploads/2024/11/1729533172013.jpeg 800w" sizes="(max-width: 630px) 100vw, 630px" /><figcaption class="wp-element-caption">Joe Braidwood. (LinkedIn Photo)</figcaption></figure></div>
-
-
-<p>Seattle tech vet <a href="https://www.linkedin.com/in/joebraidwood/">Joe Braidwood</a> just revealed Yara AI, the latest startup aiming to use AI to improve mental wellness.  Braidwood tells GeekWire that this is more than just a chatbot. &#8220;Our system combines advanced language models and deep memory features with clinical expertise to provide evidence-based support that adapts to each user&#8217;s unique needs and circumstances,&#8221; he said. Braidwood was most recently chief strategy officer of&nbsp;Vektor Medical. He also co-founded social TV platform Scener and was chief marketing officer at SwiftKey. Yara co-founder <a href="https://www.linkedin.com/in/richardstott">Dr. Richard Stott</a> has experience with clinical psychology, mathematics, and digital therapeutics.</p>
-";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848025";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:27:"http://webfeeds.org/rss/1.0";a:5:{s:4:"logo";a:1:{i:0;a:5:{s:4:"data";s:84:">https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-feedly.svg";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"accentColor";a:1:{i:0;a:5:{s:4:"data";s:6:"BE4825";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"related";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:6:"layout";s:4:"card";s:6:"target";s:7:"browser";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:85:"https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-logo-rss.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"cover";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"image";s:96:"https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-default-logo-social.png";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:4:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:30:"https://www.geekwire.com/feed/";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"https://pubsubhubbub.appspot.com";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:35:"https://pubsubhubbub.superfeedr.com";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:25:"https://websubhub.com/hub";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:9:"
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:7:"post-id";a:1:{i:0;a:5:{s:4:"data";s:6:"848240";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}s:27:"http://webfeeds.org/rss/1.0";a:5:{s:4:"logo";a:1:{i:0;a:5:{s:4:"data";s:84:">https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-feedly.svg";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:11:"accentColor";a:1:{i:0;a:5:{s:4:"data";s:6:"BE4825";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:7:"related";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:6:"layout";s:4:"card";s:6:"target";s:7:"browser";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:4:"icon";a:1:{i:0;a:5:{s:4:"data";s:85:"https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-logo-rss.png";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:5:"cover";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:1:{s:5:"image";s:96:"https://www.geekwire.com/wp-content/themes/geekwire/dist/images/geekwire-default-logo-social.png";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"link";a:4:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"href";s:30:"https://www.geekwire.com/feed/";s:3:"rel";s:4:"self";s:4:"type";s:19:"application/rss+xml";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:32:"https://pubsubhubbub.appspot.com";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:35:"https://pubsubhubbub.superfeedr.com";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"rel";s:3:"hub";s:4:"href";s:25:"https://websubhub.com/hub";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:44:"http://purl.org/rss/1.0/modules/syndication/";a:2:{s:12:"updatePeriod";a:1:{i:0;a:5:{s:4:"data";s:9:"
 	hourly	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}s:15:"updateFrequency";a:1:{i:0;a:5:{s:4:"data";s:4:"
-	1	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:4:"site";a:1:{i:0;a:5:{s:4:"data";s:8:"20980079";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:27:{s:4:"date";s:29:"Sat, 16 Nov 2024 06:27:36 GMT";s:12:"content-type";s:34:"application/rss+xml; charset=UTF-8";s:6:"cf-ray";s:20:"8e356a846d891ed4-NRT";s:15:"cf-cache-status";s:6:"BYPASS";s:13:"cache-control";s:12:"max-age=3600";s:16:"content-encoding";s:4:"gzip";s:4:"etag";s:36:"W/"d37716a3719c23074bd07c5b55c9b4e6"";s:7:"expires";s:29:"Sat, 16 Nov 2024 07:27:36 GMT";s:13:"last-modified";s:29:"Fri, 15 Nov 2024 23:50:24 GMT";s:4:"link";s:217:"<https://pubsubhubbub.appspot.com>; rel=hub, <https://pubsubhubbub.superfeedr.com>; rel=hub, <https://websubhub.com/hub>; rel=hub, <https://www.geekwire.com/feed/>; rel=self, <https://www.geekwire.com/>; rel=canonical";s:25:"strict-transport-security";s:35:"max-age=15552000; includeSubDomains";s:4:"vary";s:15:"Accept-Encoding";s:10:"cf-apo-via";s:11:"origin,feed";s:13:"cf-edge-cache";s:24:"cache,platform=wordpress";s:13:"fastcgi-cache";s:6:"BYPASS";s:15:"referrer-policy";s:31:"strict-origin-when-cross-origin";s:19:"timing-allow-origin";s:1:"*";s:22:"x-content-type-options";s:7:"nosniff";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:16:"x-tec-api-origin";s:24:"https://www.geekwire.com";s:14:"x-tec-api-root";s:49:"https://www.geekwire.com/wp-json/tribe/events/v1/";s:17:"x-tec-api-version";s:2:"v1";s:16:"x-xss-protection";s:13:"1; mode=block";s:13:"server-timing";s:25:"cfCacheStatus;desc=BYPASS";s:17:"speculation-rules";s:20:"/cdn-cgi/speculation";s:6:"server";s:10:"cloudflare";s:7:"alt-svc";s:17:"h3=:443; ma=86400";}s:5:"build";s:14:"20240924100504";s:5:"mtime";i:1731738459;s:3:"md5";s:32:"c0a4fc1d315158c54b70345a6974e447";}
+	1	";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}s:30:"com-wordpress:feed-additions:1";a:1:{s:4:"site";a:1:{i:0;a:5:{s:4:"data";s:8:"20980079";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:0:"";}}}}}}}}}}}}s:4:"type";i:128;s:7:"headers";a:27:{s:4:"date";s:29:"Mon, 18 Nov 2024 03:55:03 GMT";s:12:"content-type";s:34:"application/rss+xml; charset=UTF-8";s:6:"cf-ray";s:20:"8e4505cbec31d75b-NRT";s:15:"cf-cache-status";s:6:"BYPASS";s:13:"cache-control";s:12:"max-age=3600";s:16:"content-encoding";s:4:"gzip";s:4:"etag";s:36:"W/"d50d53fa84cb81ea5c0bb81561396603"";s:7:"expires";s:29:"Mon, 18 Nov 2024 04:55:03 GMT";s:13:"last-modified";s:29:"Sun, 17 Nov 2024 16:00:30 GMT";s:4:"link";s:217:"<https://pubsubhubbub.appspot.com>; rel=hub, <https://pubsubhubbub.superfeedr.com>; rel=hub, <https://websubhub.com/hub>; rel=hub, <https://www.geekwire.com/feed/>; rel=self, <https://www.geekwire.com/>; rel=canonical";s:25:"strict-transport-security";s:35:"max-age=15552000; includeSubDomains";s:4:"vary";s:15:"Accept-Encoding";s:10:"cf-apo-via";s:11:"origin,feed";s:13:"cf-edge-cache";s:24:"cache,platform=wordpress";s:13:"fastcgi-cache";s:6:"BYPASS";s:15:"referrer-policy";s:31:"strict-origin-when-cross-origin";s:19:"timing-allow-origin";s:1:"*";s:22:"x-content-type-options";s:7:"nosniff";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:16:"x-tec-api-origin";s:24:"https://www.geekwire.com";s:14:"x-tec-api-root";s:49:"https://www.geekwire.com/wp-json/tribe/events/v1/";s:17:"x-tec-api-version";s:2:"v1";s:16:"x-xss-protection";s:13:"1; mode=block";s:13:"server-timing";s:25:"cfCacheStatus;desc=BYPASS";s:17:"speculation-rules";s:20:"/cdn-cgi/speculation";s:6:"server";s:10:"cloudflare";s:7:"alt-svc";s:17:"h3=:443; ma=86400";}s:5:"build";s:14:"20240924100504";s:5:"mtime";i:1731902104;s:3:"md5";s:32:"e605fc97a5dab79f53bd6b2386507f14";}

@@ -55,6 +55,7 @@ Making our application accessible requires understanding of cloud hosting and ne
 - Configure Cloud instance
 - Enable secure remote access
 - Configure mobile accessibility
+- Other security considerations
 
 ##### Context Prompt for Claude.ai
 When starting work on any module, use this prompt template to maintain context:
