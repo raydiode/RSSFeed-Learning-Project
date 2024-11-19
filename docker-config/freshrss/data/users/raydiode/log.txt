@@ -81,3 +81,4 @@
 [Mon, 18 Nov 2024 04:34:04 +0000] [warning] --- cURL error 22: The requested URL returned error: 404 [https://www.theregister.com/rss#force_feed]
 [Mon, 18 Nov 2024 04:34:17 +0000] [warning] --- cURL error 22: The requested URL returned error: 404 [https://www.theregister.com/feed#force_feed]
 [Mon, 18 Nov 2024 04:34:26 +0000] [warning] --- https://www.theregister.com/ is invalid XML, likely due to invalid characters. XML error: XML_ERR_NAME_REQUIRED at line 1, column 2 [https://www.theregister.com/#force_feed]
+[Mon, 18 Nov 2024 13:50:03 +0000] [warning] --- cURL error 22: The requested URL returned error: 404 [https://www.newsweek.com/feed]
